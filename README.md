@@ -1,7 +1,7 @@
 # SQL_Olympics_Games
 
-List of all these 20 queries mentioned below:
-How many olympics games have been held?
+1-List of all these 20 queries mentioned below:
+2-How many olympics games have been held?
 List down all Olympics games held so far.
 Mention the total no of nations who participated in each olympics game?
 Which year saw the highest and lowest no of countries participating in olympics?
